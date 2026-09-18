@@ -148,7 +148,7 @@ const confirmDangerAction = () => {
 
 // 4. Form
 const formState = reactive({
-  name: "Alex Vance",
+  name: "Kobokan Admin",
   email: "alex.vance@company.io",
   role: "Developer",
   tier: "Enterprise",
